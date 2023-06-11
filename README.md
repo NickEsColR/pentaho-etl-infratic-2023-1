@@ -12,6 +12,9 @@ Nicolas Colmenares
 The report that details the process can be found [here](https://drive.google.com/file/d/1Q27THe28WemEfP0nY-YGFLUKljPX9Mjv/view?usp=sharing). The previous document has been writen
 in spanish.
 
+# Output file
+The resulting file can be dowloaded from [here](https://drive.google.com/file/d/1QxbAixD-Ivpk9dca0ttemQDNTTDlb8bL/view?usp=sharing) 
+
 # Diagram
 The following image is the final diagram result for the pipeline.
 
